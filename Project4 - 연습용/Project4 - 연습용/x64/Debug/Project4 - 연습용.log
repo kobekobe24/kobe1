@@ -1,0 +1,15 @@
+﻿  1.c
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(4,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(25,15): warning C4013: 'one'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(31,11): warning C4013: 'two'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(52,11): warning C4013: 'five'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(58,11): warning C4013: 'six'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(64,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(64,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 3개가 제공되었습니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(64,10): message : 누락된 variadic 인수 4이(가) 서식 문자열 '%c'에 필요합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(64,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(65,11): warning C4013: 'seven'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(72,11): warning C4013: 'eight'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(76,11): warning C4013: 'nine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\Project4 - 연습용\1.c(82,11): warning C4013: 'ten'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project4 - 연습용.vcxproj -> D:\재형이\개인작업\비주얼 작업\Project4 - 연습용\x64\Debug\Project4 - 연습용.exe
